@@ -1,0 +1,27 @@
+header{
+  display: flex;
+  justify-content: center;
+  background-color:  #f0f0fa;
+  border-bottom: 4px solid #9494ec;
+}
+
+nav{display: flex;
+  justify-content: center;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+a{
+  display: inline-block;
+  font-size: 34px;
+  padding: 0 15px 0 15px;
+  text-decoration: none;
+  color: #9494ec;
+  //color: #4e4eb1;
+
+}
+

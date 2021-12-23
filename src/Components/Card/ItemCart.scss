@@ -1,0 +1,50 @@
+.itemCart{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  //flex-basis: 80%;
+  //max-width: 70%;
+  color: #25256a;
+}
+.btnDelete{
+  height: 40px;
+  color: lavender;
+  background-color: #7474d9;
+  border: none;
+  border-radius: 5%;
+
+}
+.btnIncr{
+  width: 40px;
+  height: 40px;
+  color: lavender;
+  background-color: #7474d9;
+  margin: 5px;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  //font-weight: bold;
+}
+img{
+  margin: 0;
+}
+p{
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+.imgWrapper{
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+}
+.itemSum{
+  width: 150px;
+  margin-left: 10px;
+}
+.itemCount{
+  width: 150px;
+  margin-left: 10px;
+}

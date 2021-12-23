@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "isFavorite": false,
+    "name": "Жизнь и приключения Николаса Никльби.",
+    "price": 420,
+    "art": 2880769,
+    "color": "black",
+    "url": "./img/nikolas.jpg"
+  },
+  {
+    "id": 2,
+    "isFavorite": false,
+    "name": "Еще одна станция",
+    "price": 565,
+    "art": 2880687,
+    "color": "red",
+    "url": "./img/station.jpg"
+  },
+  {
+    "id": 3,
+    "isFavorite": false,
+    "name": "Сережик",
+    "price": 393,
+    "art": 2881747,
+    "color": "grey",
+    "url": "./img/serjik.jpg"
+  },
+  {
+    "id": 4,
+    "isFavorite": false,
+    "name": "Пуговичная война. Когда мне было двенадцать",
+    "price": 780,
+    "art": 2784356,
+    "color": "green",
+    "url": "./img/war.jpg"
+  },
+  {
+    "id": 5,
+    "isFavorite": false,
+    "name": "С волками жить",
+    "price": 452,
+    "art": 2876905,
+    "color": "purple",
+    "url": "./img/volf.jpg"
+  },
+  {
+    "id": 6,
+    "isFavorite": false,
+    "name": "Монстр памяти",
+    "price": 354,
+    "art": 2879303,
+    "color": "emerald",
+    "url": "./img/monster.jpg"
+  },
+  {
+    "id": 7,
+    "isFavorite": false,
+    "name": "НепрОстые",
+    "price": 154,
+    "art": 7203010,
+    "color": "pinc",
+    "url": "./img/complex.jpg"
+  },
+  {
+    "id": 8,
+    "isFavorite": false,
+    "name": "Шибко умные во дают",
+    "price": 159,
+    "art": 7153140,
+    "color": "orange",
+    "url": "./img/tosmart.jpg"
+  },
+  {
+    "id": 9,
+    "isFavorite": false,
+    "name": "Моя скандальная няня",
+    "price": 50,
+    "art": 7143442,
+    "color": "Brown",
+    "url": "./img/nurse.jpg"
+  },
+  {
+    "id": 10,
+    "isFavorite": false,
+    "name": "Граф Монте-Кристо.",
+    "price": 198,
+    "art": 7596546,
+    "color": "Violet",
+    "url": "./img/duma.jpg"
+  },
+  {
+    "id": 11,
+    "isFavorite": false,
+    "name": "Дым семи снегов (Семейный альбом).",
+    "price": 50,
+    "art": 7158969,
+    "color": "Beige",
+    "url": "./img/smoke.jpg"
+  },
+  {
+    "id": 12,
+    "isFavorite": false,
+    "name": "Земля - лишь ферма.",
+    "price": 228,
+    "art": 7770387,
+    "color": "Gold",
+    "url": "./img/earth.jpg"
+  }
+]
+
+

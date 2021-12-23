@@ -1,0 +1,46 @@
+.card{
+  margin: 20px 20px;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f0fa;
+  position: relative;
+  padding-left: 1%;
+  padding-top: 10px;
+}
+
+
+.btnToCard{
+  position: absolute;
+  bottom: 5%;
+  left: 25%;
+  width: 50%;
+  height: 30px;
+  color: lavender;
+  background-color: #7474d9;
+  border: none;
+  border-radius: 5%;
+  //margin-top: 20px;
+  //margin-bottom: 20px;
+
+}
+.btnToFavorite{
+  position: absolute;
+  top: 1%;
+  right: 1%;
+  //width: 15%;
+  //margin-top: 20px;
+  border: none;
+
+
+}
+
+p{
+  padding-top: 3px;
+  margin: 0 auto;
+}
+
+.img{
+  margin: 0 auto;
+}
